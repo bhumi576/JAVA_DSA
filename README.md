@@ -1,79 +1,77 @@
-🚀 Java DSA Journey | Interview-Focused & Consistency-Driven
+<!-- =============================== -->
+<!--        JAVA DSA JOURNEY         -->
+<!-- =============================== -->
 
-Welcome to my Java Data Structures & Algorithms (DSA) practice repository.
-This repository documents my daily, disciplined effort to build strong problem-solving skills and prepare for technical interviews and internships, with a long-term focus on top product-based companies.
+<h1 align="center">🚀 Java DSA Journey</h1>
 
-This is not just a collection of solutions — it is a structured learning journey.
+<p align="center">
+  <b>FAANG-Oriented Data Structures & Algorithms Preparation</b>
+</p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3000&pause=500&center=true&vCenter=true&width=700&lines=Consistency+%7C+Logic+%7C+Discipline;Java+DSA+Daily+Practice;Building+Problem+Solving+Skills" />
+</p>
 
+<hr/>
 
-👩‍💻 About Me
+## 👩‍💻 About This Repository
 
-🎓 B.Tech Computer Science Engineering student
+This repository documents my **structured and disciplined journey** of mastering  
+**Data Structures & Algorithms using Java**, with a strong focus on **interview preparation**.
 
-💻 Primary Language: Java
+📌 This is **not** a dump of solutions —  
+it’s a **progress-driven learning archive**.
 
-🎯 Goal: Internship & Placement Preparation (Interview-oriented)
+---
 
-📈 Currently strengthening DSA fundamentals step by step
+## 🎯 Who Am I?
 
+- 🎓 BTech **Computer Science Engineering** student    
+- 💼 Target: **Internships & Placements (FAANG-focused)**  
+- 🧠 Focused on **logic-building & fundamentals**
 
+---
 
-🧠 What This Repository Represents
-✔ Strong focus on core fundamentals and logic building
-✔ Clean, readable, and interview-ready Java code
-✔ Gradual progression from basics → intermediate → advanced concepts
+## 🧩 What You’ll Find Here
 
-The emphasis is on understanding, not memorization.
+<table>
+  <tr>
+    <td>✔</td>
+    <td>Daily DSA practice with Java</td>
+  </tr>
+  <tr>
+    <td>✔</td>
+    <td>Beginner → Intermediate → Advanced flow</td>
+  </tr>
+  <tr>
+    <td>✔</td>
+    <td>Clean & readable Java code</td>
+  </tr>
+  <tr>
+    <td>✔</td>
+    <td>Interview-oriented problem selection</td>
+  </tr>
+  <tr>
+    <td>✔</td>
+    <td>Concept clarity over shortcuts</td>
+  </tr>
+</table>
 
-📝 Coding Standards & Practices
+---
 
-📄 One file per problem or concept
+## 🛠 Coding Standards I Follow
 
-🏷 Clear and meaningful class & file names
+- 🏷️ Clear class & file naming
+- 💬 Proper comments for logic explanation
+- 🔁 **Daily commits** to build discipline
 
-💬 Proper comments explaining the logic
+> Clean code today = confidence tomorrow.
 
-🧮 Time & Space Complexity mentioned wherever applicable
+---
 
-🔁 Regular commits to maintain consistency
+## 📈 My Progress Philosophy
 
-📊 Discipline & Progress
-
-⏰ Practicing every single day
-
-✍️ Writing solutions independently
-
-🔍 Focusing on why a solution works, not just how
-
-📌 Slow, steady, and sustainable improvement
-
-🌱 Learning Philosophy
-
-“Discs
-
-I believe in:
-
-Mastering fundamentals before advanced topics
-
-Debugging patiently and learning from mistakes
-
-Building confidence one problem at a time
-
-
-
-🤝 Let’s Learn Together
-
-If you’re also preparing for DSA or technical interviews:
-
-⭐ Star the repository
-
-🍴 Fork it and practice along
-
-💡 Share suggestions or improvements
-
-🔥 Building strong foundations today for better opportunities tomorrow.
-
-
-
-Just tell me 💙
+```text
+Practice daily.
+Understand deeply.
+Improve gradually.
