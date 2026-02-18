@@ -259,7 +259,6 @@ public class multiArray {
 
 
 
-// ....... TRANSPOSE OF A MATRIX ........
 
 
 // ...... REVERSE EACH ROW OF MATRIX ..............
